@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-#### I'm a React JS Developer working in India.
+#### I'm a ReactJS Frontend Developer.
 
 
 ##### BIO

@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-#### I'm a ReactJS Frontend Developer.
+#### I'm a Frontend ReactJS Developer.
 
 
 ##### BIO

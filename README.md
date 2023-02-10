@@ -9,7 +9,6 @@
 - ⚙️ I use daily: `react js`,`next js`,`tailwindcss`, `js`, `html`, `css`,`windows`,`ubuntu` .
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **ui**, **development**, **design**
-- 📫 Reach me: [twitter](https://twitter.com/_yathee_)
 - ⚡️ Fun fact: I like to travel 
 
 #### SKILLS 

@@ -6,7 +6,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **private**
-- ⚙️ I use daily: `react js`,`next js`,`tailwindcss`, `js`, `html`, `css`,`windows`,`ubuntu` .
+- ⚙️ I use daily: `react js`,`express js`,`tailwindcss`, `js`, `html`, `css`,`ubuntu` .
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **ui**, **development**, **design**
 - ⚡️ Fun fact: I like to travel 
